@@ -1,0 +1,9 @@
+{
+    "name": "ps-react-demo",
+    "set": "schokoriegel",
+    "source": "https://github.com/sjsyrek/package-sets.git",
+    "depends": [
+        "react-basic",
+        "prelude"
+    ]
+}
